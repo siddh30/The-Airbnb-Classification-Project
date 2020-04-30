@@ -1,5 +1,8 @@
 # The Airbnb Classification Project
-In this challenge, we are provided with  a list of users along with their demographics, web session records, and some summary statistics. We were asked to predict which country a new user's first booking destination will be. 
+
+<p align = "center"><img width="600" img height="400" src=https://github.com/siddh30/The-Airbnb-Classification-Project/blob/master/logo.jpg> </p>
+
+In this kaggle challenge by Airbnb, we are provided with  a list of users along with their demographics, web session records, and some summary statistics. We were asked to predict which country a new user's first booking destination will be. 
 
 There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. Please note that 'NDF' is different from 'other' because 'other' means there was a booking, but is to a country not included in the list, while 'NDF' means there wasn't a booking.
 
