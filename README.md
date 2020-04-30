@@ -1,4 +1,4 @@
-# The Airbnb Classification Project
+# <div align="center">The Airbnb Classification Project</div>
 
 <p align = "center"><img width="800" img height="350" src=https://github.com/siddh30/The-Airbnb-Classification-Project/blob/master/logo.jpg> </p>
 
