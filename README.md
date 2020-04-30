@@ -1,6 +1,6 @@
 # The Airbnb Classification Project
 
-<p align = "center"><img width="600" img height="200" src=https://github.com/siddh30/The-Airbnb-Classification-Project/blob/master/logo.jpg> </p>
+<p align = "center"><img width="700" img height="300" src=https://github.com/siddh30/The-Airbnb-Classification-Project/blob/master/logo.jpg> </p>
 
 In this kaggle challenge by Airbnb, we are provided with  a list of users along with their demographics, web session records, and some summary statistics. We were asked to predict which country a new user's first booking destination will be. 
 
