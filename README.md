@@ -9,8 +9,6 @@ There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB
 The training and test sets are split by dates. In the test set, you will predict all the new users with first activities after 7/1/2014 (note: this is updated on 12/5/15 when the competition restarted). In the sessions dataset, the data only dates back to 1/1/2014, while the users dataset dates back to 2010. 
 
 
-## Our Approach to this project
-We have performed binary as well multi-classifictaion on this project in R.
 ### We have implemented this project in four Stages.
 1. Data Visulalisation and Anlaysis of the entire dataset
 2. Data preprocessing, which includes using One Hot Encoding to create binary labels for different countries present in the country_destination column.
